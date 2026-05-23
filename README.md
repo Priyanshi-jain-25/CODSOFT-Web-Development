@@ -36,7 +36,7 @@ A personal portfolio website designed to showcase my:
 
 ### 📸 Output
 
-<img width="700" alt="Portfolio Output" src="Portfolio/portfolio-output.png">
+<img width="700" alt="Portfolio Output" src="Priyanshi-Portfolio/portfolio-output.png">
 
 ---
 
@@ -60,7 +60,7 @@ A modern AI-themed landing page with attractive UI and responsive layout.
 
 ### 📸 Output
 
-<img width="700" alt="Landing Page Output" src="LandingPage/landingpage-output.png">
+<img width="700" alt="Landing Page Output" src="landingPage/landingpage-output.png">
 
 ---
 
